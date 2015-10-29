@@ -1,0 +1,6 @@
+[submodule "cgtheory"]
+	path = cgtheory
+	url = git@github.com:bbiiggppiigg/cgtheory.git
+[submodule "basicml"]
+	path = basicml
+	url = git@github.com:bbiiggppiigg/basicml.git
