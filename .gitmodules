@@ -4,3 +4,6 @@
 [submodule "basicml"]
 	path = basicml
 	url = git@github.com:bbiiggppiigg/basicml.git
+[submodule "rts"]
+	path = rts
+	url = git@github.com:bbiiggppiigg/rts.git
